@@ -1,0 +1,26 @@
+/* Text sizing and alignment */
+
+.max-80ch {
+    max-width: 80ch;
+}
+
+.text-center {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Text styling */
+
+.p-accent {
+    font-size: 0.8em;
+    color: #b1b4b9;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.upper {
+    text-transform: uppercase;
+}
